@@ -1,8 +1,8 @@
-<h3>SMS Spam Detection</h3>
+<h2>SMS Spam Detection</h2>
 
 This project is a Flask-based machine learning web application that detects whether an SMS message is Spam or Ham (Not Spam).
 
-<h4><b>Features</b></h4>
+<h3><b>Features</b></h3>
 <ul>
   <li>Text preprocessing using NLP</li>
   <li>Trained ML model for spam detection</li>
