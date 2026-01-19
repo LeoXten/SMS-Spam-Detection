@@ -10,17 +10,16 @@ This project is a Flask-based machine learning web application that detects whet
   <li>Deployed using cloud platform</li>
 </ul>
 
-Tech Stack
+<h3><b>Tech Stack</b></h3>
+<ul>
+  <li>Python</li>
+  <li>Flask</li>
+  <li>Scikit-learn</li>
+  <li>Natural Language Processing</li>
+  <li>HTML/CSS</li>
+</ul>
 
-Python
-
-Flask
-
-Scikit-learn
-
-HTML/CSS
-
-Usage
-
+<h3>Usage</h3>
 Enter an SMS message and get instant spam prediction.
-Deployed Link : https://sms-spam-detection-wwx4.onrender.com
+
+<h3>Deployed Link :</h3> https://sms-spam-detection-wwx4.onrender.com
